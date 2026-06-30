@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5g0027/krp/v1/juan/0
+seq: 0
+front:
+  text: 正一法文經章官品目録物八
+  hash: sha256:03d68a18e72ed659871d0c2ac241e715376583ef31c13b06ac88a457eb3779ca
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5g0027_HFL_000-001a, image: hfl/0880/0880-040.png}
+body:
+  text: 第一卷收土公軍兵收怪主利宅舍收官事主解首過誹謗呪詛主縣官口舌保六畜逐賊盜壽命度厄録魂長生玉女醫疾治風毒癩疾收先祖病子孫收死人耗害録祭酒求録護蠶滋好田作瓜瓠逺行萬里市買欺詐叛道求還祭酒開心入山不渴飲五瘟傷寒巳上共二十四條第二卷收萬精魅收顚癎收目病諸毒立差主收耳聾主收齒頰頭痛治解社竃治蟲鼠精怪治劫殺注解牢獄治蛇蝮五毒治腫癰鼠漏治風痺痿治久病淋露治瘧疾治男女百病治嘔逆咳嗽治雲中間客鬼治産生胎妊治雜病治衆疾收邪師治收糴鬼治瘖啞男女解罪解呪詛巳上二十六條第三卷主斬草收葬送塜墓鬼主塜墓主土公鬼主土氣鬼主井竈鬼收竈鬼主徙宅舍利居宅主嫁娶主田種巳上十一條第四卷主蠶桑主六畜主魚捕主賈市主百禍治生主行來出入解囚繫牢獄解官事縣官口舌縣官怨仇口舌誹謗劫掠人夫妻收盜賊逃亡人今自來還主利征戰攻伐請雨請晴巳上十六條
+  hash: sha256:751d37111c30b5f3d4ba5442f5a9e9d641ea2bf8ce7634de961fa4a80783e06b
+metadata:
+  title: 正一法文經章官品
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 02:25:40.113681'
+  source:
+    repository: kanripo
+    path: KR5g0027/KR5g0027_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:7c9b882e1d2d3a09ad2b1955e8496591b8e3a7bce7fd4190456c3ef0b1f1ea0c
