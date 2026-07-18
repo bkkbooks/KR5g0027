@@ -15,6 +15,7 @@ markers:
   - {type: indent, offset: 0, content: 　　　, id: KR5g0027_krp_004-bkkind1}
   - {type: substitution, offset: 1, original: 蚕, replacement: 蠶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17069}}
   - {type: punctuation, offset: 3, content: (, id: KR5g0027_krp_004-bkkpn1}
+  - {type: voice, offset: 3, length: 8, name: note, id: n1}
   - {type: punctuation, offset: 7, content: /, id: KR5g0027_krp_004-bkkpn2}
   - {type: punctuation, offset: 11, content: ), id: KR5g0027_krp_004-bkkpn3}
   - {type: 'kr:newline', offset: 11, content: '
@@ -1285,4 +1286,4 @@ markers:
 
       ', id: KR5g0027_krp_004-bkkkrnewl285}
   back: []
-hash: sha256:dbc705a13c436d3385b5bad4bcb6753b4138f9947586caeb28713651a4e735aa
+hash: sha256:73bab16706ef30efc617f5710ebe2aa88f1564749f77c52628c48b1665cdcac5
